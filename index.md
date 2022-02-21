@@ -1,15 +1,16 @@
 ##                                                                      神及道,道法自然,如来!
 
-You can use the [editor on GitHub](https://github.com/hongzhengjiang/hongzhengjiang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+悟
+悟道休言天命；修行勿取真经。一悲一喜一枯荣，哪个前生注定。
+袈裟本无清静，红尘不染性空，幽幽古刹千年钟，都是痴人说梦。.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+所谓真经
+就是能够达到寂空涅盘的究竟法门,可悟不可修。
+修为成佛，在求。悟为明性，在知。
+修行以行制性，悟道以性施行。
+觉者由心生律；修者以律制心，不落恶果者有信无证，住因住果，住念住心，如是生灭。
+不昧因果者无住而住，无欲无不欲，无戒无不戒，如是涅盘。
 
 # Header 1
 ## Header 2
