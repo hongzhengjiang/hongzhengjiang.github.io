@@ -1,6 +1,6 @@
 # Welcome to 洪正 homepage
 
-email：jianghz@email.com
+email：jianghz@email.cn
 
 神即道,道法自然,如来!
 
